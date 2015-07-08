@@ -1,0 +1,79 @@
+<style type="text/css"
+body {
+  background-color: #fff;
+  font: 13px/20px normal Helvetica, Arial, sans-serif;
+  color: #4F5155;
+  display: block;
+  padding: 50px 150px 10px 150px;
+}
+h1 {
+  color: #444;
+  background-color: transparent;
+  border-bottom: 1px solid #D0D0D0;
+  font-size: 19px;
+  font-weight: normal;
+  margin: 0 0 14px 0;
+  padding: 20px 15px 10px 15px;
+}
+code {
+  font-family: Consolas, Monaco, Courier New, Courier, monospace;
+  font-size: 15px;
+  background-color: #f9f9f9;
+  border: 1px solid #D0D0D0;
+  color: #002166;
+  display: block;
+  margin: 5px 0 14px 0;
+  padding: 5px 10px 5px 10px;
+}
+  #body {
+    margin: 0 15px 0 15px;
+  }
+p.footer {
+  text-align: right;
+  font-size: 11px;
+  border-top: 1px solid #D0D0D0;
+  line-height: 32px;
+  padding: 0 10px 0 10px;
+  margin: 20px 0 0 0;
+}
+#container {
+  margin: 20px 200px 200px 200px;
+  border: 1px solid #D0D0D0;
+  box-shadow: 0 0 8px #D0D0D0;
+}
+#main {
+background-image: url(images/bg_content.png);
+background-repeat: repeat-y;
+position: relative;
+float: left;
+width:1000px;
+}
+#content-profil-kiri {
+width: 300px;
+left: 10px;
+position: relative;
+float: left;
+text-align: left;
+}
+
+#content-profil-kanan {
+width: 650px;
+margin:  20px 0 0 30px;
+right: 5px;
+position: relative;
+float: right;
+}
+.isi-text{
+text-align: justify;
+color: #333333;
+
+}
+.small_1
+ {
+  COLOR: #666666; FONT-SIZE: 7pt;
+}
+
+.small_2
+ {
+  COLOR: #666666; FONT-SIZE: 8pt;
+}
